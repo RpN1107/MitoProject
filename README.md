@@ -1,9 +1,6 @@
 # 🚀 MITOPROJECT
 
 **Author:** Rithwik Nambiar  
-**Course:** OMICS Assignment — BIODS  
-**ID:** 20244013  
-
 ---
 
 ## 📌 Objective
